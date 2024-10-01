@@ -14,7 +14,7 @@ const page = () => {
         </p>
     </div>
     <div className=''>
-<Image className ="relative top-12 w-[30vw] rounded-full h-[30vw] object-cover mt-20 left-56 cursor-pointer ease-in-out[0.4s]]"
+<Image className ="relative top-12 w-[30vw] rounded-full h-[30vw] object-cover mt-10 left-56 cursor-pointer ease-in-out[0.4s]]"
 src={img} 
 alt='img' />
 </div>

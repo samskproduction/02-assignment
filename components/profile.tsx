@@ -10,7 +10,6 @@ const page = () => {
         <h1 className='text-5xl text-black text-bold'>Hi, Its me <span className='text-[#569DAA] text-6xl text-extrabold '> <strong>Muhammad Sameer</strong></span></h1>
         <p className='max-w-screen-lg  text-4xl px-2.5 py-2.5 mt-5 text-black'>
         I m a frontend developer, passionate about technology and creating innovative solutions.
-        I have a strong foundation in programming languages such as Html,Css,and JavaScript, I m currently working on Nextjs projects, and I m always eager to learn and grow.
         </p>
     </div>
     <div className=''>

@@ -6,9 +6,6 @@ export default function Portfolio(){
         <div>
             <Header/>
             <h1 className="text-center mt-20 text-6xl font-bold">Portfolio</h1>
-        <div className="text-center mt-24 text-4xl">
-        <p>Here are some of my projects:</p>
-        </div>
         <Footer/>
         </div>
 

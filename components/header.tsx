@@ -6,10 +6,10 @@ const Header = () => {
     <div className="">
         <nav className="w-full sm:w-auto bg-black  py-8 px-[5%]">
           <ul className='flex flex-wrap justify-center sm:justify-end gap-4 sm:gap-6 md:gap-10 text-white text-lg sm:text-xl md:text-2xl font-bold '>
-            <li className=''><Link href="/">Home</Link></li>
-            <li className=''><Link href="/portfolio">Portfolio</Link></li>
-            <li className=''><Link href="/contact">Contact</Link></li>
-            <li className=''><Link href="/about">About</Link></li>
+            <li><Link href="/">Home</Link></li>
+            <li><Link href="/portfolio">Portfolio</Link></li>
+            <li><Link href="/contact">Contact</Link></li>
+            <li><Link href="/about">About</Link></li>
           </ul>
         </nav>
     </div>

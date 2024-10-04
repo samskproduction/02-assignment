@@ -4,7 +4,7 @@ import Profile from "@/components/profile";
 
 export default function home(){
   return(
-    <div className="overflow-x-hidden">
+    <div>
       <Header/>
       <Profile/>
       <Footer/>
